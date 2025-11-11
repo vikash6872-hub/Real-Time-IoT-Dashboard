@@ -20,7 +20,7 @@ Stack: Java (Spring Boot), MySQL, WebSocket (STOMP/SockJS), HTML/CSS/JS (Chart.j
    ```
 5. Run simulator:
    ```
-  java JavaSensorSimulator.java
+   JavaSensorSimulator.java
 
 
    ```
