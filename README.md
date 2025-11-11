@@ -1,7 +1,9 @@
-# Real-Time-IoT-Dashboard
+#  Real-Time IoT Sensor Data Monitoring & Analytics Dashboard
 
-Real-Time IoT Sensor Data Monitoring & Analytics Dashboard
-Stack: Java (Spring Boot), MySQL, WebSocket (STOMP/SockJS), HTML/CSS/JS (Chart.js)
+A **Java + MySQL + HTML/CSS/JavaScript** based project that provides a **real-time web dashboard** for monitoring **IoT sensor data** (Temperature, Humidity, Air Quality).  
+The system simulates IoT devices sending live sensor readings to a backend server, which stores data in MySQL and visualizes it on a clean, web-based dashboard.
+
+
 
 ## Run (Local, without Docker)
 1. Start MySQL and create database `iotdb` or update `application.yml`.
