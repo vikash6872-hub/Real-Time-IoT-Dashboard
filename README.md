@@ -3,6 +3,18 @@
 A **Java + MySQL + HTML/CSS/JavaScript** based project that provides a **real-time web dashboard** for monitoring **IoT sensor data** (Temperature, Humidity, Air Quality).  
 The system simulates IoT devices sending live sensor readings to a backend server, which stores data in MySQL and visualizes it on a clean, web-based dashboard.
 
+---
+
+##  Features
+
+✅ Real-time sensor data updates (Temperature, Humidity, Air Quality)  
+✅ Java-based backend with MySQL database integration  
+✅ Live Dashboard with charts and analytics  
+✅ Data simulator using Java (no hardware required)  
+✅ Easy to set up and run locally  
+✅ full-stack structure (Java + DB + Frontend)
+
+---
 
 
 ## Run (Local, without Docker)
