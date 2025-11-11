@@ -5,14 +5,29 @@ The system simulates IoT devices sending live sensor readings to a backend serve
 
 ---
 
+##  Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | HTML, CSS, JavaScript, Chart.js |
+| **Backend** | Java Servlets (Tomcat) |
+| **Database** | MySQL |
+| **Simulator** | Java HTTP client |
+| **IDE / Tools** | VS Code, MySQL Workbench, Apache Tomcat |
+| **Version Control** | Git & GitHub |
+
+---
+
+---
+
 ##  Features
 
-✅ Real-time sensor data updates (Temperature, Humidity, Air Quality)  
-✅ Java-based backend with MySQL database integration  
-✅ Live Dashboard with charts and analytics  
-✅ Data simulator using Java (no hardware required)  
-✅ Easy to set up and run locally  
-✅ full-stack structure (Java + DB + Frontend)
+ ➡ Real-time sensor data updates (Temperature, Humidity, Air Quality)  
+ ➡ Java-based backend with MySQL database integration  
+ ➡ Live Dashboard with charts and analytics  
+ ➡ Data simulator using Java (no hardware required)  
+ ➡ Easy to set up and run locally  
+ ➡ full-stack structure (Java + DB + Frontend)
 
 ---
 
