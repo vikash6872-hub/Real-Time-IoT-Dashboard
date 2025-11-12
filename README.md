@@ -4,12 +4,13 @@ A **Java + MySQL + HTML/CSS/JavaScript** based project that provides a **real-ti
 The system simulates IoT devices sending live sensor readings to a backend server, which stores data in MySQL and visualizes it on a clean, web-based dashboard.
 
 ##  Project Architecture
+
 IoT Sensor Simulator (Java)
-↓
+         ↓
 Java Backend (Servlet)
-↓
+         ↓
 MySQL Database
-↓
+         ↓
 Web Dashboard (HTML, JS, CSS)
 
 ---
