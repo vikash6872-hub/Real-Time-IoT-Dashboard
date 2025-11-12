@@ -5,7 +5,7 @@ The system simulates IoT devices sending live sensor readings to a backend serve
 
 ##  Project Architecture
 
-IoT Sensor Simulator (Java) ➡ Java Backend (Servlet) ➡ MySQL Database  → Web Dashboard (HTML, JS, CSS)
+IoT Sensor Simulator (Java) → Java Backend (Servlet) → MySQL Database  → Web Dashboard (HTML, JS, CSS)
        
 
 ---
